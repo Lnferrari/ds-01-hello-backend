@@ -9,5 +9,18 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lnferrari/ds-01-hello-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lnferrari/ds-01-hello-backend/issues"
+  },
+  "homepage": "https://github.com/Lnferrari/ds-01-hello-backend#readme"
 }
